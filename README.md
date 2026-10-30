@@ -6,7 +6,7 @@ Machine Learning (ML) is a branch of Artificial Intelligence (AI) that allows co
 
 In simple words, Machine Learning teaches computers how to learn from experience, just like humans learn from examples.
 
-## How Does Machine Learning Work?
+## How Does Machine Learning Work.
 Machine Learning works in a few basic steps:
 
 1. **Collect Data:** Gather information that a computer can learn from.
